@@ -64,6 +64,7 @@ By using this property .we can get the data from variablename and we can set or 
                 return empno;
             }
         }
+        //public int Empno{get;set;}  //this shortcut for new version propeties/
         //============Empno property End here===================
         //============Empname property start here==============
         public string Empname
