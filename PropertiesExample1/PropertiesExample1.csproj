@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="employee.cs" />
+    <Compile Include="Only_GetAccessorExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SetAccessor_WriteOnlyPropertExamaple.cs" />
     <Compile Include="sipdashboard.cs" />
   </ItemGroup>
   <ItemGroup>
